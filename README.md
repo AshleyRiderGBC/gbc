@@ -2,4 +2,4 @@
 
 - [D2l] (https://learn.georgebrown.ca)
 - [Atklass] (https://app.atklass.com)
-- [Important Dates] (https://wwww.georgebrown.ca/current-students/important-dates?term=30106&category=131)
+- [Important Dates] (https://www.georgebrown.ca/current-students/important-dates?term=30106&category=131)
