@@ -13,8 +13,13 @@
    - 16:00 /- [COMP1238](https://learn.georgebrown.ca/d2l/home/513886) Introduction to Data Management
 
 - **Tuesday**
-   -
+   - 12:00 /- [COMP1238](https://learn.georgebrown.ca/d2l/home/513886) Introduction to Data Management
+   - 13:00 /- [COMP1162](https://learn.georgebrown.ca/d2l/home/509304) Mathematics for Computer Technology
+   - 18:00 /- [COMP1234](https://learn.georgebrown.ca/d2l/home/516630) Introduction to Web Development
 - **Wednesday**
-   - 
+   - 10:00 /- [COMP1236](https://learn.georgebrown.ca/d2l/home/514711) Fundamentals of Computing Logic
+   - 12:00 /- [COMP1234](https://learn.georgebrown.ca/d2l/home/516630) Introduction to Web Development
+   - 15:00 /- [COMM2000](https://learn.georgebrown.ca/d2l/home/506564) Communicating Across Contexts
 - **Thursday**
-   - 
+   - 10:00 /- [COMP1151](https://learn.georgebrown.ca/d2l/home/515478) IT Essentials
+   - 14:00 /- [COMP1162](https://learn.georgebrown.ca/d2l/home/509304) Mathematics for Computer Technology
