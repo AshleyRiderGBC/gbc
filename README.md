@@ -11,4 +11,10 @@
    - 12:00 /- [COMP1151](https://learn.georgebrown.ca/d2l/home/515478) IT Essentials
    - 14:00 /- [COMP1236](https://learn.georgebrown.ca/d2l/home/514711) Fundamentals of Computing Logic
    - 16:00 /- [COMP1238](https://learn.georgebrown.ca/d2l/home/513886) Introduction to Data Management
-  
+
+- **Tuesday**
+   -
+- **Wednesday**
+   - 
+- **Thursday**
+   - 
